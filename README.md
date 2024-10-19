@@ -1,8 +1,6 @@
 ### Hi there 👋
 ---
 I'm muiiii, I can write programs in C++ that incorporate Qt modules, including OpenGL for graphics rendering and websocket for network communication, among others.
-### Language
-[![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/) 
 
 <!-- 
 **Hoemu/Hoemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
